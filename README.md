@@ -149,7 +149,7 @@ phone lookup tool
 
 ## 👤 Autor
 
-Proyecto desarrollado como práctica de **Java y estructuras de datos**.
+Proyecto desarrollado como práctica de **Java y estructuras de datos** por **josiscripts**.
 
 ---
 
